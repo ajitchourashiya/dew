@@ -357,6 +357,8 @@ a > code {
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
+  
+ 
 }
 
 .no-gutters {
@@ -1867,10 +1869,14 @@ input[type].form-control {
   font-size: 20px;
   color: #fff;
   text-transform: capitalize;
+  background-image: url('images/nouse/1600481605_423x378_02.jpg');
 }
-
+*service {
+  
+}
 #services .section-content img {
   max-height: 200px;
+  background-image: url('images/nouse/1600481605_423x378_02.jpg'); 
 }
 
 #services .section-content .service {
